@@ -41,5 +41,5 @@ To build an AI-powered cultural knowledge platform that educates users on Indian
 
 ## 🔗 Final Demo
 
-Will be live at: [Hugging Face Space link]  
-Repository: [https://code.swecha.org/<your-username>/bharat-culture-guide](https://code.swecha.org/)
+Will be live at:  nakireddyindureddy/bharat-culture-guide
+Repository: [https://code.swecha.org/indureddy_4/open-source-api](https://code.swecha.org/)

@@ -6,7 +6,7 @@ An open-source cultural assistant for discovering India's diverse traditions, fe
 
 ## 🌐 Project Info
 
-- **Live Preview (optional)**: [Add Hugging Face Link After Deploying]
+- **Live Preview (optional)**: [nakireddyindureddy/bharat-culture-guide]
 - **GitHub Repository**: [https://github.com/indureddy484/open-source-api](https://github.com/indureddy484/open-source-api)
 
 ---
